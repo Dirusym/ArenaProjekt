@@ -11,3 +11,8 @@
 
 #####*10.03.17 13.15*
 -Kollisionsabfrage und Bewegungsscript Änderungen unter Party Game.gmx.7z
+
+#####*10.03.17 15.34*
+-Alle Prozesse in Scripts umgewandelt, entsprechende Beschreibung in den jeweiligen Objekten und Scripts
+-Zoomfix -> Jetzt kann jeder Player mit dem "x"-Button rauszoomen und bewegt sich dabei nicht.
+-ZoomProblem -> Beim 2ten Player zoomt er etwas zu weit raus !
