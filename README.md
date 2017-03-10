@@ -16,3 +16,7 @@
 1. -Alle Prozesse in Scripts umgewandelt, entsprechende Beschreibung in den jeweiligen Objekten und Scripts
 2. -Zoomfix -> Jetzt kann jeder Player mit dem "x"-Button rauszoomen und bewegt sich dabei nicht.
 3. -ZoomProblem -> Beim 2ten Player zoomt er etwas zu weit raus !
+
+#####*10.03.17 21.46*
+1. -Neuer Ordner in Sprites -> Player (Dort ist die Kanone und der Körper !)
+2. -Die Kanone wird in obj_Player im DrawEvent gezeichnet !
