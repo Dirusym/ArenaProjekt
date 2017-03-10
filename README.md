@@ -8,3 +8,6 @@
 
 #####Changelog *09.03.17 21.23*
 -Github Projekt eröffnet und Dateien eingefügt !
+
+*10.03.17 13.15*
+-Kollisionsabfrage und Bewegungsscript Änderungen unter Party Game.gmx.7z
