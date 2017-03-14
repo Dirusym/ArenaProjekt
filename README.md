@@ -20,3 +20,9 @@
 #####*10.03.17 21.46*
 1. -Neuer Ordner in Sprites -> Player (Dort ist die Kanone und der Körper !)
 2. -Die Kanone wird in obj_Player im DrawEvent gezeichnet !
+
+#####*14.03.17 01.11*
+1. -Den ersten Room in Level01 benannt und nen Background Ordner für die Level erstellt 
+2. -Level Größe immer auf 2048x2048 ! (Da sonst Bugs auftreten wegen Zoom !)
+3. -Feste Spawntpunkte in den Ecken der Map platziert !
+4. -WaffenSpawn Prototype platziert !
