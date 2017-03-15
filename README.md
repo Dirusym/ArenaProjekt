@@ -26,3 +26,7 @@
 2. -Level Größe immer auf 2048x2048 ! (Da sonst Bugs auftreten wegen Zoom !)
 3. -Feste Spawntpunkte in den Ecken der Map platziert !
 4. -WaffenSpawn Prototype platziert !
+
+#####*15.03.17 01.58*
+1. -Neue Sprites ! Player 1 = Rot || Player 2 = Blau !
+2. -Farbkleckse hinzugefügt ! Player hinterlässt nun Kleckse auf dem Boden (Derzeit nur Rot) !
