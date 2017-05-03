@@ -30,3 +30,17 @@
 #####*15.03.17 01.58*
 1. -Neue Sprites ! Player 1 = Rot || Player 2 = Blau !
 2. -Farbkleckse hinzugefügt ! Player hinterlässt nun Kleckse auf dem Boden (Derzeit nur Rot) !
+
+#####*03.05.17 18.18*
+1. -Hook hinzugefügt !
+   ->Folgende Probleme gibt es:
+   ->>Wenn man die Hook startet, spawnt ein Teil der Kette rechts neben dem Spieler !
+   ->>Wenn man nach oben und unten schaut und die Hook startet, kommt sie nicht aus der Waffe, sonder etwas versetzt !
+   ->>Wenn man an der Wand steht und auf die Wand die Hook startet, buggt sich der Spieler in die Wand !
+2. WaffenSpawn (Primitiv)
+   ->Man kann nun auf das Waffenterminal und die Waffe wird derzeit nur verändert ! (Aussehen)
+   
+   
+   
+   
+   
