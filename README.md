@@ -40,7 +40,9 @@
 2. WaffenSpawn (Primitiv)
    ->Man kann nun auf das Waffenterminal und die Waffe wird derzeit nur verändert ! (Aussehen)
    
-   
+#####*09.05.17 23.39*
+1. ->Neue Hook mit einem neuen Script, alte Sachen wurden gelöscht !
+2. ->Kette funktioniert nicht ganz, werde mich drum kümmern ;)
    
    
    
